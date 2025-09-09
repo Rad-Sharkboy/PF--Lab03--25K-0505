@@ -19,10 +19,17 @@ I’m a passionate Computer Science student who believes programming is more tha
 
 ---
 
+## 🔢 Quick Goals;
+1. Finish all PF Lab tasks in time 😭   
+2. Improve coding style and logic  
+3. Keep learning step by step (Manual by Manual)
+
+---
+---
+
 > [!NOTE]  
 > 💡 **This repository PF Lab-03 [25K-0505] is part of my journey in mastering the art of programming fundamentals — one lab at a time.**
 
 ---
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 ---
