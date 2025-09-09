@@ -2,7 +2,7 @@
 ## ***My PF Lab 03 Task!***
 ### 👋 Hey, I’m M.Faizan Talha! [25K-0505]
  **🎓 BSCS Student | 💻 Aspiring Developer | 🚀 Problem Solver**
-
+![PF Lab 03 Banner](https://img.shields.io/badge/PF%20Lab--03-Programming%20Fundamentals-blue?style=for-the-badge&logo=c)
 ---
 
 > **About Me:**  
