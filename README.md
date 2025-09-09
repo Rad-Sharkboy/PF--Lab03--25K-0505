@@ -24,4 +24,5 @@ I’m a passionate Computer Science student who believes programming is more tha
 
 ---
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-![Rocket](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
+---
