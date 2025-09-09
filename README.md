@@ -10,12 +10,17 @@
 > **About Me:**  
 I’m a passionate Computer Science student who believes programming is more than just code — it’s a way to build ideas into reality.
 
-+ Always curious about how computers work under the hood.  
-+ Love experimenting with C, Python, VB.NET, and web technologies.  
-+ Currently sharpening my skills through Programming Fundamentals labs & projects by writing clean code and learning algorithms and automation.  
+- Always curious about how computers work under the hood.  
+- Love experimenting with **C, Python, VB.NET, and web technologies**.
+- Loves to watch youtube videos about **CPU/GPU** manufacturing.
+- My ultimate goal 🎯 is to grow into a developer who not only writes code, but also creates solutions that **impact people positively**.
+- I also value collaboration — working with colleagues, sharing knowledge/info, and learning from others mistakes.  
+- Currently sharpening my skills through Programming Fundamentals labs & projects by writing clean code and learning algorithms and automation.
 
 ---
+
 > [!NOTE]  
 > 💡 **This repository PF Lab-03 [25K-0505] is part of my journey in mastering the art of programming fundamentals — one lab at a time.**
 
 ---
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
